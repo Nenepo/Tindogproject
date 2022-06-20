@@ -173,4 +173,6 @@ h3 {
     transform: rotate(0deg);
  width: 250px;
   }
+  section{
+    width: 100%;
 }
